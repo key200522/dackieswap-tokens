@@ -129,6 +129,14 @@
       "chainId": 84531,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xa6502d582268F05b3bCcE2a15dd44c21b0219340.png"
+    },
+    {
+      "name": "Crypto Bosses",
+      "symbol": "BOSS",
+      "address": "0xb4e4127551265ff0f3b6C98e591520E6eEff3F39",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xb4e4127551265ff0f3b6C98e591520E6eEff3F39.png"
     }
   ]
 }
