@@ -137,6 +137,14 @@
       "chainId": 84531,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xb4e4127551265ff0f3b6C98e591520E6eEff3F39.png"
+    },
+    {
+      "name": "test Bosses",
+      "symbol": "TEST",
+      "address": "0xb4e4127551265ff0f3b6C98e591520E6eEff3F39",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xb4e4127551265ff0f3b6C98e591520E6eEff3F39.png"
     }
   ]
 }
